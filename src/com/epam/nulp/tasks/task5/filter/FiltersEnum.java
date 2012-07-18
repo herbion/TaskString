@@ -1,0 +1,8 @@
+package com.epam.nulp.tasks.task5.filter;
+
+public enum FiltersEnum {
+    GET_UNIQUE_WORDS_IN_FIST_SENTENCE,
+    GET_WORDS_BY_OCCURENCE_OF_CUSTOM_LETTER,
+    GET_WORDS_BY_PERCENT_OF_VOVELS,
+    GET_WORDS_SORTED_APHABETICAL,
+}
